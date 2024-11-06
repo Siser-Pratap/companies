@@ -8,3 +8,5 @@
   Accelerant: Follow their website or LinkedIn for opportunities and apply with a strong resume.
   Springworks: Visit their [Careers](https://springworks.in/careers) page.
   InVideo: Check [InVideo Careers](https://invideo.io/careers) for freshers’ roles, focusing on creativity.
+
+(4) TCS Codevita preparation https://docs.google.com/document/d/1wTsPtSFp75A8fRppgzfzeyMuRGZkzNDvPbYpmK5T_g8/edit?tab=t.0
